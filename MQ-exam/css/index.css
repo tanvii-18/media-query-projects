@@ -1,0 +1,161 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* heading */
+
+.headings
+{
+    height: 150px;
+    width: 100%;
+    margin-top: 2%;
+    text-align: center;
+    padding-top: 3%;
+}
+
+.headings h1
+{
+    color: rgb(29, 29, 83);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.headings h3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    font-style: normal;
+    color:rgb(192, 189, 189);
+    padding-top: 3px;
+}
+
+/* box */
+
+.main-box
+{
+    height: 400px;
+    width: 100%;
+}
+
+.box-cont
+{
+    height: 400px;
+    width: 90%;
+    margin: 2% auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box1
+{
+    height: 360px;
+    width: 32%;
+    background-color: #4D71E5;
+    border-radius: 10px;
+}
+
+.circle1
+{
+    height: 140px;
+    width: 40%;
+    background-color: white;
+    border-radius: 50%;
+    margin: 5% auto;
+}
+
+.circle1 img
+{
+    height: 125px;
+    width: 90%;
+    border-radius: 50%;
+    margin: 5%;
+}
+
+.box2
+{
+    height: 360px;
+    width: 32%;
+    background-color: #4D71E5;
+    border-radius: 10px;
+}
+
+.circle2
+{
+    height: 140px;
+    width: 40%;
+    background-color: white;
+    border-radius: 50%;
+    margin: 5% auto;
+}
+
+.circle2 img
+{
+    height: 125px;
+    width: 90%;
+    border-radius: 50%;
+    margin: 5%;
+}
+
+.box3
+{
+    height: 360px;
+    width: 32%;
+    background-color: #4D71E5;
+    border-radius: 10px;
+}
+
+.circle3
+{
+    height: 140px;
+    width: 40%;
+    background-color: white;
+    border-radius: 50%;
+    margin: 5% auto;
+}
+
+.circle3 img
+{
+    height: 125px;
+    width: 90%;
+    border-radius: 50%;
+    margin: 5%;
+}
+
+.text
+{
+    width: 90%;
+    text-align: center;
+    margin: 3% auto;
+}
+
+.text p
+{
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-family: "Encode Sans Condensed", serif;
+    font-weight: 200;
+    font-style: normal;
+    color: white;
+    padding-bottom: 10px;
+
+}
+
+.text h2
+{
+    font-size: 20px;
+    color: white;
+    font-family: "Fira Sans Condensed", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.text img
+{
+    height: 40px;
+    width: 40%;
+    padding-top: 10px;
+}
